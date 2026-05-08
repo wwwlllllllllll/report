@@ -1,11 +1,9 @@
 {
-  "name": "tcb-official-website",
+  "name": "empty-miniprogram",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "",
   "license": "",
-  "dependencies": {
-  }
+  "dependencies": {}
 }

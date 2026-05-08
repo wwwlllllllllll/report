@@ -1,5 +1,8 @@
 App({
-  onLaunch: async function () { },
-  onShow: function () {
+  onLaunch: function () {
+
   },
+  onShow: function () {
+
+  }
 });
